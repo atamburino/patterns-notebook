@@ -27,7 +27,7 @@ throw new ArgumentNullException(nameof(user));
 string prop = nameof(Order.Total); // "Total"
 ```
 
-## Patterns
+## Pattern matching
 
 ```csharp
 if (shape is Circle { Radius: > 0 } c)

@@ -1,5 +1,3 @@
-* [Home](/)
-
 * C#
 
   * [Overview](/csharp/)
