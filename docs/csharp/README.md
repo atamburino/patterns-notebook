@@ -2,6 +2,7 @@
 
 Quick reference for modern C#. Each page is a few snippets and the gotchas that usually matter.
 
+* [Core concepts](/csharp/core-concepts.md) — namespaces, sealed types, nulls, injection, LINQ, async
 * [Syntax gotchas](/csharp/syntax.md) — `var` versus an explicit type, interpolation, `nameof`, pattern matching
 * [Null handling](/csharp/null-handling.md) — `??`, `??=`, `?.`, and `is null` / `is not null`
 * [Lambdas](/csharp/lambdas.md) — `Func`, `Action`, and expression-bodied members
