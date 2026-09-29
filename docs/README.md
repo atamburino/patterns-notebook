@@ -17,6 +17,7 @@ Short reminders for C# and TypeScript. Open a page when you need a nudge — a s
 
 ## C#
 
+* [Core concepts](/csharp/core-concepts.md) — namespaces, sealed types, nulls, injection, LINQ, async
 * [Syntax gotchas](/csharp/syntax.md) — `var`, interpolation, `nameof`, patterns
 * [Null handling](/csharp/null-handling.md) — `??`, `??=`, `?.`, `is null`
 * [Lambdas](/csharp/lambdas.md) — `Func`, `Action`, expression-bodied members

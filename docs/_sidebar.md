@@ -1,6 +1,7 @@
 * C#
 
   * [Overview](/csharp/)
+  * [Core concepts](/csharp/core-concepts.md)
   * [Syntax gotchas](/csharp/syntax.md)
   * [Null handling](/csharp/null-handling.md)
   * [Lambdas](/csharp/lambdas.md)
