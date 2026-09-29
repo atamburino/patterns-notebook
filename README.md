@@ -42,16 +42,13 @@ Open http://localhost:8080/ and use the top links to move between Home, C#, and 
 
 ## GitHub Pages
 
-Source: **Deploy from a branch** → branch **`main`** → folder **`/docs`**.
+The site is meant to be published at https://atamburino.github.io/patterns-notebook/
 
-The published URL is https://atamburino.github.io/patterns-notebook/
+Source must be **Deploy from a branch**, branch **`main`**, folder **`/docs`**. There is no build. No `CNAME` file — this repo uses the default `github.io` address.
 
-No custom domain is configured. Do not add a `CNAME` file unless you actually have a domain to point here.
+Pages is a one-time repo setting (it cannot be committed as a file). Turn it on here:
 
-If the site is not being served, turn Pages back on:
-
-1. Open this repo on GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
-4. Set **Branch** to `main` and the folder to `/docs`.
-5. Save. The first deploy often takes a minute or two. The Pages settings page shows the URL when it is ready.
+1. Open [Settings → Pages](https://github.com/atamburino/patterns-notebook/settings/pages).
+2. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
+3. Set **Branch** to `main` and the folder to `/docs`.
+4. Save. The first deploy often takes a minute or two. That settings page shows the URL when it is ready.
